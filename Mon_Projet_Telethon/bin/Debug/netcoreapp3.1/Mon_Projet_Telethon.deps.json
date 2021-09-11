@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mon_Projet_Telethon/1.0.0": {
+        "dependencies": {
+          "Ma_Biblio_De_Classe": "1.0.0"
+        },
+        "runtime": {
+          "Mon_Projet_Telethon.dll": {}
+        }
+      },
+      "Ma_Biblio_De_Classe/1.0.0": {
+        "runtime": {
+          "Ma_Biblio_De_Classe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mon_Projet_Telethon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ma_Biblio_De_Classe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

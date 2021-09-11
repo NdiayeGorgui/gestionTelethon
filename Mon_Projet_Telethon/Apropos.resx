@@ -1,0 +1,108 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Projet réalisé par Gorgui Ndongo NDIAYE
+
+College de Rosemont : Formation continue
+Numéro Etudiant: 6167045
+
+Dans ce projet nous avons essayé de créer une apllication de gestion de téléthon.
+Nous avons des classes qui permettent de créer des commanditaires,
+ des prix offerts par les commanditaires
+des donateurs et les dons offerts par les donateurs mais aussi des récompenses selon le montant 
+du don pour encourager les donateurs.
+nous avons créer des fichiers pour pouvoir stocker les informations concernant toutes les entités.
+nous avons aussi tenté de garder toutes les cohérences possibles pour avoir une application de qualité.
+a savoir, eviter la duplication des id(identifants) d'une entité dans les differents enregistrements.
+eviter de sauvegarder des dons sans donateur ou des prix sans commanditaire.
+permettre a un donateur de faire plutard un nouveau don sans pour autant l'enregistrer a nouveau,
+il suffut de verifier son id dans le fichier l'ecrire dans la zone réservé a cet effet et enregistrer le
+nouveau don. meme chose pour un commanditaire déja existant qui veut offrir a nouveau un prix, 
+on recherche  son id puis enregistrer le nouveau don.
+et pour controler tout ceci nous avons creer des messagesbox pour intercepter d'eventuels erreurs
+qui pourrait survenir. nous avons aussi essayer de produire au mieux le guidage de l'utilisateur 
+lors des saisies. Nous avons aussi géré le format de l'adresse mail du donateur et son numéro de téléphone
+Le format pour le mail: gogo@rosemont.ca
+Le format pour le téléphone: 514-641-2554 / ou (438)-456-7890</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Projet réalisé par Gorgui Ndongo NDIAYE
+
+College de Rosemont
+ Formation continue Numéro Etudiant: 6167045
+
+Dans ce projet nous avons essayé de créer une apllication de gestion de téléthon.
+Nous avons des classes qui permettent de créer des commanditaires, des prix offerts par les commanditaires
+des donateurs et les dons offerts par les donateurs mais aussi des récompenses selon le montant du don
+pour encourager les donateurs.
+nous avons créer des fichiers pour pouvoir stocker les informations concernant toutes les entités.
+nous avons aussi tenté de garder toutes les cohérences possibles pour avoir une application de qualité.
+a savoir, eviter la duplication des id(identifants) d'une entité dans les differents enregistrements.
+eviter de sauvegarder des dons sans donateur ou des prix sans commanditaire.
+permettre a un donateur de faire plutard un nouveau don sans pour autant l'enregistrer a nouveau,
+il suffut de verifier son id dans le fichier l'ecrire dans la zone réservé a cet effet et enregistrer le
+nouveau don. meme chose pour un commanditaire déja existant qui veut offrir a nouveau un prix, on recherche 
+son id puis enregistrer le nouveau don.
+et pour controler tout ceci nous avons creer des messagesbox pour intercepter d'eventuels erreurs
+ qui pourrait survenir. nous avons aussi essayer de produire au mieux le guidage de l'utilisateur 
+lors des saisies.
+</value>
+  </data>
+</root>

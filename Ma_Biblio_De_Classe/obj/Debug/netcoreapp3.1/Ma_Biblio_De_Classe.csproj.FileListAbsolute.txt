@@ -1,0 +1,9 @@
+C:\Users\gogo2\source\repos\Mon_Projet_Telethon\Ma_Biblio_De_Classe\bin\Debug\netcoreapp3.1\Ma_Biblio_De_Classe.deps.json
+C:\Users\gogo2\source\repos\Mon_Projet_Telethon\Ma_Biblio_De_Classe\bin\Debug\netcoreapp3.1\Ma_Biblio_De_Classe.dll
+C:\Users\gogo2\source\repos\Mon_Projet_Telethon\Ma_Biblio_De_Classe\bin\Debug\netcoreapp3.1\Ma_Biblio_De_Classe.pdb
+C:\Users\gogo2\source\repos\Mon_Projet_Telethon\Ma_Biblio_De_Classe\obj\Debug\netcoreapp3.1\Ma_Biblio_De_Classe.csprojAssemblyReference.cache
+C:\Users\gogo2\source\repos\Mon_Projet_Telethon\Ma_Biblio_De_Classe\obj\Debug\netcoreapp3.1\Ma_Biblio_De_Classe.AssemblyInfoInputs.cache
+C:\Users\gogo2\source\repos\Mon_Projet_Telethon\Ma_Biblio_De_Classe\obj\Debug\netcoreapp3.1\Ma_Biblio_De_Classe.AssemblyInfo.cs
+C:\Users\gogo2\source\repos\Mon_Projet_Telethon\Ma_Biblio_De_Classe\obj\Debug\netcoreapp3.1\Ma_Biblio_De_Classe.csproj.CoreCompileInputs.cache
+C:\Users\gogo2\source\repos\Mon_Projet_Telethon\Ma_Biblio_De_Classe\obj\Debug\netcoreapp3.1\Ma_Biblio_De_Classe.dll
+C:\Users\gogo2\source\repos\Mon_Projet_Telethon\Ma_Biblio_De_Classe\obj\Debug\netcoreapp3.1\Ma_Biblio_De_Classe.pdb

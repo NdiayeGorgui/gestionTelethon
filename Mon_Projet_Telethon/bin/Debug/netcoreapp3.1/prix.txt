@@ -1,0 +1,4 @@
+P01,Téléviseur,2500,10,10,PapN
+P02,Calendrier,1000,100,100,PapN
+P03,Repas A Deux,1000,500,500,SouD
+P04,BBQ,2800,700,700,FiT

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mon_Projet_Telethon", "Mon_Projet_Telethon\Mon_Projet_Telethon.csproj", "{D53B34B6-87BB-4D11-B2E7-7A021F0F77D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ma_Biblio_De_Classe", "Ma_Biblio_De_Classe\Ma_Biblio_De_Classe.csproj", "{596F32A7-0170-4E1D-93AB-8BD8A1691E77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53B34B6-87BB-4D11-B2E7-7A021F0F77D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53B34B6-87BB-4D11-B2E7-7A021F0F77D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53B34B6-87BB-4D11-B2E7-7A021F0F77D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53B34B6-87BB-4D11-B2E7-7A021F0F77D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596F32A7-0170-4E1D-93AB-8BD8A1691E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596F32A7-0170-4E1D-93AB-8BD8A1691E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596F32A7-0170-4E1D-93AB-8BD8A1691E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596F32A7-0170-4E1D-93AB-8BD8A1691E77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D5244D4-63FD-451E-8D61-9CB9F2D9A6E0}
+	EndGlobalSection
+EndGlobal

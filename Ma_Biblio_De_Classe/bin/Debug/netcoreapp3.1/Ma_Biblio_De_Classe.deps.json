@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ma_Biblio_De_Classe/1.0.0": {
+        "runtime": {
+          "Ma_Biblio_De_Classe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ma_Biblio_De_Classe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
